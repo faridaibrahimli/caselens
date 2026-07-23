@@ -1,0 +1,15 @@
+Case: case_001
+
+Contradiction 1
+Type: appearance
+Witnesses: 2 vs 4
+Witness 2 says: "a person in a black jacket"
+Witness 4 says: "wearing a grey jacket"
+
+Contradiction 2
+Type: time
+Witnesses: 2 vs 4
+Witness 2 says: "between 2:30pm and 3pm"
+Witness 4 says: "closer to 4pm than 3pm"
+
+Ground truth (ungiven to model): man in grey jacket stole bicycle at 3pm
