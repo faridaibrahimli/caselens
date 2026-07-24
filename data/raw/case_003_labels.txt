@@ -1,0 +1,28 @@
+Case: case_003
+
+Conflict 1
+Type: attribution
+Witnesses: 2 and 3 (Team A) vs 5 (Team B)
+Witnesses 2 and 3 say: the bottle "came from someone in the Team B group" / "someone just said it came from the other side"
+Witness 5 says: "I actually saw the bottle in someone's hand right before it was thrown, a guy in a grey Team A scarf"
+Note: this is the sharpest conflict in the case — it's not a detail mismatch but a disagreement over which side the attacker belonged to. Witnesses 2 and 3 did not directly see the throw (secondhand/assumed); Witness 5 claims direct, confident observation. Flag as high-priority for investigator review.
+
+Conflict 2
+Type: brand/identity (indirect)
+Witnesses: 2 vs 5
+Witness 2 says: "our side definitely doesn't drink that brand, I'm sure of that much at least"
+Witness 5 says: the attacker (in a Team A scarf) was seen holding the bottle
+Note: if Witness 5's identification is correct, it directly undercuts Witness 2's claim that the brand isn't associated with Team A. Indirect conflict — arises from combining two statements rather than a single parallel clash. Flag as related to Conflict 1, not fully independent.
+
+Consistent 1 (not a conflict)
+Type: certainty hedge
+Witnesses: 3 vs 4
+Witness 3 says: "I personally don't drink that brand, but I couldn't really speak for everyone else in our group"
+Witness 4 says: "our group doesn't really drink that brand"
+Note: Witness 3's hedge is weaker and does not actually conflict with Witness 4's claim (different teams, both denying the brand for themselves). Included as a negative example — should NOT be flagged as a contradiction, despite surface similarity in topic.
+
+Unreliable/low-value testimony (context, not a formal conflict)
+Witness 1 (victim): no usable identification due to injury and shock — flag as low-confidence source rather than conflicting source.
+Witness 6: explicitly states uncertainty on both sides ("could have come from either group") — useful as a neutral, self-aware source, corroborates the general unreliability rather than pointing blame anywhere.
+
+Ground truth (not given to model): victim (Team A) struck with a bottle near the metro station after the match; brand does not conclusively belong to either side; attacker's identity/team affiliation remains contested between witness accounts.
