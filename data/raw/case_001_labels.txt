@@ -1,15 +1,17 @@
 Case: case_001
 
-Contradiction 1
+Conflict 1
 Type: appearance
 Witnesses: 2 vs 4
 Witness 2 says: "a person in a black jacket"
 Witness 4 says: "wearing a grey jacket"
+Note: same apparent event window; jacket color differs — could be the same person misremembered, or two different people passing by at different times. Flagged for investigator to check.
 
-Contradiction 2
+Conflict 2
 Type: time
 Witnesses: 2 vs 4
 Witness 2 says: "between 2:30pm and 3pm"
 Witness 4 says: "closer to 4pm than 3pm"
+Note: roughly 1-hour gap; within normal range of witness time imprecision, but still worth flagging alongside Conflict 1 since both involve the same two witnesses.
 
-Ground truth (ungiven to model): man in grey jacket stole bicycle at 3pm
+Ground truth (not given to model): man in grey jacket stole bicycle at 3pm
