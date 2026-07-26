@@ -1,0 +1,10 @@
+Case: case_008
+
+Conflict 1
+Type: sequence/time
+Witnesses: 2 vs 4
+Witness 2 says: heard noise around 12:30, then spraying, then looked out and saw fresh paint already on the shutter
+Witness 4 says: walked past the same shop around 12:45 and the shutter was completely clean, no graffiti
+Note: direct, explicit conflict — both describe the same shutter at overlapping times with opposite states (painted vs. clean). Cannot both be true as stated. Flag for investigator review; possible explanations include a misjudged time by one witness, but resolving that is not the model's task.
+
+Ground truth (not given to model): the graffiti was applied sometime after 12:45am, since the shutter was still clean at that time per an independent witness; Witness 2 likely misjudged the time of what they heard/saw.
