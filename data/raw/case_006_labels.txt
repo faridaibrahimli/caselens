@@ -1,0 +1,10 @@
+Case: case_006
+
+Conflict 1
+Type: location
+Witnesses: 2 vs 3
+Witness 2 says: saw a man in a dark hoodie near Row C, around 7pm
+Witness 3 says: saw a man in a hoodie, but near Row A, around 6:45pm
+Note: likely the same person, same level, close time window — but a different row. Flag for investigator review; could indicate the person moved between rows, or one witness misjudged location in dim lighting.
+
+Ground truth (not given to model): the car on Level 2, Row C was broken into between 6pm and 8pm; a man in a dark hoodie was near the car shortly before the theft was discovered.
