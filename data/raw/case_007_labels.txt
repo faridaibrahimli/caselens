@@ -1,0 +1,10 @@
+Case: case_007
+
+Conflict 1
+Type: count and time (bundled)
+Witnesses: 2 vs 3
+Witness 2 says: saw one person, on foot, take the package around 2:30pm
+Witness 3 says: saw two people arrive by car around 3:30pm, though unsure if they went to the porch
+Note: these may describe the same incident or two different, unrelated events near the same house. Different count, different method (foot vs. car), roughly an hour apart. Flag for investigator review rather than assuming either account is correct — resolving which (if either) matches the actual theft is not the model's job.
+
+Ground truth (not given to model): the package was taken by a single person, on foot, sometime between 2pm and 4pm. Witness 2's account matches the ground truth; Witness 3's sighting is unrelated or mistaken.
