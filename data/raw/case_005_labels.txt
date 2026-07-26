@@ -14,6 +14,12 @@ Witnesses 4 and 2 say: David left "at his usual time" that evening, nothing unus
 Witness 5 says: David's car was in the parking lot "quite a bit later than I'd expect"
 Note: two witnesses (David, Tom) align against one (Marta), but the majority is not correct here — David lied about his departure time (unrelated to the document; a personal matter, confirmed in ground truth), and Tom's corroboration is sincere but mistaken or based on an earlier, incomplete observation. Demonstrates that witness agreement does not guarantee accuracy. Flag regardless of which side has more corroboration.
 
+Consistent 1
+Witnesses: 1, 2, and 4
+Witness 1 (Anna) says: she "had a meeting outside the office Tuesday afternoon" and "stopped by briefly afterward, just for a few minutes"
+Witness 2 (Tom) says: "Anna came by briefly Tuesday evening, we talked for a few minutes about the contract... She left again not long after that"
+Witness 4 (David) says: "saw Anna on the floor a couple of times Tuesday, once in the morning and again later after she got back from her meeting"
+Note: three independent witnesses corroborate Anna's account of her movements that day — her meeting, her brief return, and her departure all check out. Strong contrast within the same case: Anna's story holds up under multiple independent corroborations, while Elena's "only once" claim does not (Conflict 1 in this case).
 Unresolved / low-confidence thread (not a formal conflict)
 Witness 5 (Marta) says: saw "a woman near Anna's office" during the day, unsure if Anna or Elena.
 Note: does not resolve into a clean conflict with any other statement, but adds soft corroborating weight to Elena's afternoon presence on the floor. Surface to the investigator as supporting context for Conflict 1, not as a standalone flag.

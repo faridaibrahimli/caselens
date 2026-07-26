@@ -16,6 +16,11 @@ Witness 4 says: Tod (per his mistaken sighting) was heading straight home via El
 Note: this conflict is resolved by Conflict 1's explanation — Witness 3 is correct (Tod did go to the park); Witness 4 is describing a different boy. Included to show that one underlying mistake (mistaken identity) can surface as multiple apparent conflicts across a single case.
 Flag policy: flag regardless of the fact that it is ultimately explainable — same reasoning as Conflict 1.
 
+Consistent 1
+Witnesses: 3 and 5
+Witness 3 (Mrs. Alvarez, shopkeeper) says: Tod "left heading toward the park, not toward his usual street"
+Witness 5 (Mrs. Kim) says: saw a boy matching his description "near the park entrance, not on Elm Street"
+Note: two independent witnesses, from different locations, both place him heading toward/at the park rather than his usual route home — mutually reinforcing, and this is also the version that matches the ground truth. Good example of two witnesses correctly corroborating each other, in contrast to Witness 4's mistaken-identity conflict in the same case.
 Ground truth (not given to model): Tod stopped at a friend's house, then the shop, then the park (watching football), losing track of time at each stop, before heading home around 5:15pm. No danger occurred. Witness 4's account, while sincere, describes a different boy.
 
 Design principle demonstrated by this case: CaseLens flags surface-level discrepancies regardless of severity or plausibility of an innocent explanation, because the cost of missing a genuine lead outweighs the cost of an investigator spending a few seconds dismissing a false one. This case also shows a single root cause (mistaken identity) generating two apparent conflicts across different witness pairs.
