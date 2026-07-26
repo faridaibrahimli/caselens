@@ -1,0 +1,52 @@
+=== GROUND TRUTH (for your eyes only) ===
+An important signed contract was kept in the main accountant Anna's office cabinet.
+Anna confirmed it was there Monday evening around 6pm, before locking up and leaving.
+She discovered it missing Wednesday morning around 9am.
+Only 5 people have access to her office: Anna herself, Tom (assistant accountant),
+Elena (IT technician), David (office manager), and Marta (the cleaner).
+
+Anna was in the office briefly Tuesday too: she left mid-afternoon for an external
+meeting, then returned afterward for about ten minutes, during which she spoke with
+Tom about the contract — she was unhappy with some of its terms and said so during
+that conversation. She then left again.
+
+Elena's usual work is on a different floor. She states she came to the accounting
+floor only once, in the evening, to fix a server issue. In reality, she was there
+twice — once in the afternoon with no clear work reason, and again in the evening,
+when she took the document. Her account undercounts her own visits.
+
+David told everyone he left the office at a normal time that evening. In truth, he
+stayed much later than he claims — but not because of the document. He was having
+an affair and stayed late to meet the other person privately in the building, and
+lied about his departure time to avoid that becoming known. He did not take the
+document and has no knowledge of its disappearance.
+
+=== WITNESS 1: Anna, main accountant ===
+I locked the document in my cabinet Monday evening before I left, around 6pm, like always.
+I had a meeting outside the office Tuesday afternoon, so I wasn't around much that day.
+I did stop by briefly afterward, just for a few minutes, to grab something I'd forgotten.
+When I came in Wednesday morning around 9, I opened the cabinet and the document was gone.
+
+=== WITNESS 2: Tom, assistant accountant ===
+I was at my desk most of Monday and Tuesday, finishing month-end reports.
+Anna came by briefly Tuesday evening, we talked for a few minutes about the contract.
+She wasn't happy with some of the terms in it, she said as much to me directly.
+I saw David leave around his usual time that evening, nothing seemed unusual to me.
+
+=== WITNESS 3: Elena, IT technician ===
+I came in Tuesday evening, around 7 to 9pm, to fix an issue with the office server.
+The router is in Anna's office, so I needed access to go in and check the connections.
+It took a while because the issue was a bit tricky to trace.
+That was the only time I was up on that floor that day.
+
+=== WITNESS 4: David, office manager ===
+I saw Anna on the floor a couple of times Tuesday, once in the morning and again later after she got back from her meeting.
+I also saw Elena on our floor twice that day, which struck me as odd since she's not usually up here, she's normally downstairs with IT.
+I left the office at my usual time that evening, nothing out of the ordinary on my end.
+I don't know anything about the document going missing.
+
+=== WITNESS 5: Marta, cleaner ===
+I do a light tidy during the day and then a full clean in the evening, usually starting around 8 and finishing by 9:30.
+During the day I saw a woman near Anna's office, but I couldn't say for sure if it was Anna or Elena, I only caught a glimpse.
+In the evening, Anna's office was locked and dark when I got to it, same as most evenings.
+David's car was still in the parking lot quite a bit later than I'd expect, well after when I'd normally see him gone.

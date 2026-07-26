@@ -1,0 +1,24 @@
+Case: case_005
+
+Conflict 1 (main conflict)
+Type: count / self-report vs. observation
+Witnesses: 3 (Elena, self-report) vs 4 (David, independent observation)
+Witness 3 says: "That was the only time I was up on that floor that day" (once)
+Witness 4 says: "I also saw Elena on our floor twice that day"
+Note: strongest lead in the case — a direct numeric conflict between a person's account of their own actions and an independent witness's observation. Elena's floor is not her usual work area, making the discrepancy more significant. Flag as high priority.
+
+Conflict 2
+Type: time
+Witnesses: 4 and 2 (David, Tom) vs 5 (Marta)
+Witnesses 4 and 2 say: David left "at his usual time" that evening, nothing unusual
+Witness 5 says: David's car was in the parking lot "quite a bit later than I'd expect"
+Note: two witnesses (David, Tom) align against one (Marta), but the majority is not correct here — David lied about his departure time (unrelated to the document; a personal matter, confirmed in ground truth), and Tom's corroboration is sincere but mistaken or based on an earlier, incomplete observation. Demonstrates that witness agreement does not guarantee accuracy. Flag regardless of which side has more corroboration.
+
+Unresolved / low-confidence thread (not a formal conflict)
+Witness 5 (Marta) says: saw "a woman near Anna's office" during the day, unsure if Anna or Elena.
+Note: does not resolve into a clean conflict with any other statement, but adds soft corroborating weight to Elena's afternoon presence on the floor. Surface to the investigator as supporting context for Conflict 1, not as a standalone flag.
+
+Red herring (explicitly labeled)
+David's false statement about his departure time is a real, detectable discrepancy (Conflict 2) but is unrelated to the missing document — confirmed by ground truth to be a personal matter (an affair), not guilt. Included deliberately to demonstrate that the system should flag discrepancies without implying they indicate wrongdoing; interpreting significance is the investigator's task, not the model's.
+
+Ground truth (not given to model): Elena took the document during her second, undisclosed visit to the accounting floor Tuesday evening, using a server-issue pretext that did not require her actual presence that long. David's inconsistency is real but unrelated to the theft.
