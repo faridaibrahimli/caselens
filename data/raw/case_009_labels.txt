@@ -1,0 +1,29 @@
+Case: case_009
+
+Conflict 1
+Type: sequence
+Witnesses: 1 and 3 vs 2
+Witnesses 1 and 3 say: the taller man shoved first
+Witness 2 says: the shorter man shoved first, then got shoved back harder
+Note: 2-vs-1 corroboration, but majority agreement doesn't guarantee accuracy — flag regardless of which side has more witnesses. Witness 2 explicitly admits uncertainty ("I could be wrong about who started it"), which is useful context but doesn't change the flag.
+
+Conflict 2
+Type: presence/absence (proximity and duration)
+Witnesses: 3 vs 4
+Witness 3 says: "there wasn't anyone else really close to them when it happened, just the two of them"
+Witness 4 says: "I saw a third person standing pretty close to them the whole time, not just after"
+Note: direct conflict on whether a third person was near the altercation throughout, or not close at all. Witness 3 was closer to the event (friend of the man who fell) but that doesn't automatically make his account correct — flag for investigator review.
+
+Consistent 1
+Witnesses: 1 and 4
+Witness 1 (bartender) says: "I saw the two of them arguing outside for a minute or so before it happened"
+Witness 4 (passerby) says: "I was just walking by and noticed the two of them arguing loudly"
+Note: both independently confirm an argument occurred before the shove, from very different vantage points — reinforcing the basic shape of events despite disagreeing on who shoved first (Conflict 1). Shows witnesses can agree on the broad event while conflicting on a key detail within it.
+
+Consistent 2
+Witnesses: 1 and 4
+Witness 1 (bartender) says: "There was another guy standing a bit further off, but he didn't get involved at all"
+Witness 4 (passerby) says: "I saw a third person standing pretty close to them the whole time, not just after"
+Note: both independently confirm a third person was present, even though they disagree on proximity and duration (this disagreement is Conflict 2). Illustrates agreement on the core fact (a third person existed) alongside conflict on the specifics.
+
+Ground truth (not given to model): the taller man shoved first; the shorter man fell and hit his head on the curb. A third person was standing nearby but was not involved in the altercation.
