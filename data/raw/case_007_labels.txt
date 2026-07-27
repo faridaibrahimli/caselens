@@ -12,4 +12,4 @@ Witnesses: 1 and 4
 Witness 1 (homeowner) says: tracking said the package "arrived around 2" that afternoon
 Witness 4 (mail carrier) says: "I dropped that package off right around 2, like the tracking said"
 Note: the homeowner's tracking information and the mail carrier's own account of the delivery time directly corroborate each other — a clean, strong match confirming the delivery timeline, independent of anything related to the theft itself.
-Ground truth (not given to model): the package was taken by a single person, on foot, sometime between 2pm and 4pm. Witness 2's account matches the ground truth; Witness 3's sighting is unrelated or mistaken.
+Ground truth (not given to model): the package was taken by a single person, on foot, sometime between 2pm and 4pm. Witness 2's account matches the ground truth; Witness 3's sightiSng is unrelated or mistaken.

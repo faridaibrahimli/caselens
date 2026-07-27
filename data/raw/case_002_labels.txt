@@ -1,0 +1,23 @@
+Case: case_002
+
+Conflict 1
+Type: appearance
+Witnesses: 2 vs 4
+Witness 2 says: "dark blue hoodie"
+Witness 4 says: "black jacket, not blue"
+Note: same girl near the side door, described differently. Flag for investigator review.
+
+Conflict 2
+Type: presence/absence
+Witnesses: 5 vs (2 and 6)
+Witness 5 says: "I stayed near the front the whole time... I got off a couple of stops before the university"
+Witnesses 2 and 6 say: a girl matching her description was standing at the side door near a boy on his phone, until at least close to the uni stop
+Note: Witness 5 is the identified suspect and has a motive to misstate her position. This conflict spans three witnesses rather than two — flag as a higher-priority discrepancy given the corroboration between Witnesses 2 and 6.
+
+Consistent 1
+Witnesses: 4 vs 6
+Witness 4 says: "light-colored, but I'm not totally sure"
+Witness 6 says: "light-colored I think, though I couldn't swear to the exact shade"
+Note: both witnesses hedge and roughly agree with each other and with Witness 2's "big beige bag." Should not be flagged as a contradiction despite the topical overlap.
+
+Ground truth (not given to model): teenage girl in dark blue sweatshirt with large beige bag stole Sam's phone near the side door at 8:33am.
