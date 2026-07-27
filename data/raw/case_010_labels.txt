@@ -1,0 +1,23 @@
+Case: case_010
+
+Conflict 1
+Type: appearance (softened)
+Witnesses: 1 vs 2
+Witness 1 says: "a young man wearing a navy blue cap" (stated with confidence)
+Witness 2 says: "some kind of dark cap... maybe close to black, but I couldn't really tell in that lighting" (hedged, uncertain)
+Note: not a flat clash — Witness 2 explicitly signals low confidence due to lighting. Still worth flagging, since navy blue and black are different enough to matter, but the investigator should weigh Witness 1's confident, specific claim more heavily than Witness 2's hedged one.
+
+Conflict 2
+Type: count
+Witnesses: 1 and 2 vs 3
+Witnesses 1 and 2 say: it was one person, alone
+Witness 3 says: there were two people, one entering as the other left
+Note: Witness 3 observed through a shop window from outside, which plausibly explains the discrepancy — an unrelated customer entering just as the shoplifter left could easily be misread as "two people" from that vantage point. Flag regardless of this plausible explanation; resolving it is the investigator's task, not the model's.
+
+Consistent 1
+Witnesses: 1 and 4
+Witness 1 says: "It was just one person, a young man wearing a navy blue cap"
+Witness 4 says: "it sounded like a young man, alone, wearing a cap"
+Note: the owner's secondhand account (relayed from the employee) matches the direct witness's description on the core facts — one young man, alone, wearing a cap. Reinforces Witness 1's account against Witness 3's two-person claim (Conflict 2), without directly contradicting Witness 3.
+
+Ground truth (not given to model): one young man shoplifted a few items and left on foot, alone. Witness 3's "two people" account is most likely a misreading of an unrelated customer entering as the shoplifter exited.
